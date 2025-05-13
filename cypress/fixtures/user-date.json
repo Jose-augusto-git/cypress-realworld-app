@@ -1,0 +1,21 @@
+{
+    "repo": "TypeScript",
+
+    "credencialValida1":{
+        "usuario": "Katharina_Bernier",
+        "senha": "s3cret"
+    },
+
+    "credencialValida2":{
+        "usuario": "dev_QA",
+        "senha": "1234"
+    },
+
+    "credencialInvalida":{
+        "usuario": "admin",
+        "senha": "124"
+    }
+
+    
+}
+  
