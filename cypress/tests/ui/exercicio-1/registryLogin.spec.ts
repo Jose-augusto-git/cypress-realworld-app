@@ -1,4 +1,4 @@
-import {accessLoginPage} from '../../../page/accessLoginPage/accessLoginPage'
+import {accessLoginPage} from '../../../page/accessLogin/accessLoginPage'
 import { loginPage } from '../../../page/login/loginUserPage';
 import { registryLoginPage } from '../../../page/login/registryLoginPage';
 

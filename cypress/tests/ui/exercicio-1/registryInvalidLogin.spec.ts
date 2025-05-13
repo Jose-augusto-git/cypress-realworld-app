@@ -1,4 +1,4 @@
-import {accessLoginPage} from '../../../page/accessLoginPage/accessLoginPage'
+import {accessLoginPage} from '../../../page/accessLogin/accessLoginPage'
 import { registryLoginPage } from '../../../page/login/registryLoginPage';
 
 const accessLogin = new accessLoginPage
